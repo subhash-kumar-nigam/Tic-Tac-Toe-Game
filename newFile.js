@@ -1,0 +1,1 @@
+resetBtn.addEventListener("click", resetGame);
